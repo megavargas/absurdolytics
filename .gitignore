@@ -1,0 +1,15 @@
+# Hugo default output directory
+/public
+
+# OSX
+.DS_Store
+
+# MISC 
+*.test
+*.prof
+nohup.out
+cover.out
+*.swp
+*.swo
+.DS_Store
+*~
