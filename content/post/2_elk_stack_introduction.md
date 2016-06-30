@@ -11,7 +11,7 @@ Elasticsearch es una potente herramienta open source que nos permite indexar una
 
 ![ELK](/images/elk.jpg)
 
-Actualmente junto con Logstash y Kibana forma un stack tecnológico *ELK* que puede ser utilizado para la ingesta, proceso y visualización de grandes volúmenes de datos, os dejo aquí unas cuestiones interesantes sobre su convercencia dentro del mundo big data y su competencia / complemento con Hadoop:
+Actualmente junto con Logstash y Kibana forma el stack tecnológico *ELK* que puede ser utilizado para la ingesta, proceso y visualización de grandes volúmenes de datos, os dejo aquí unas cuestiones interesantes sobre su convercencia dentro del mundo big data y su competencia / complemento con Hadoop:
 
 *  [Why do people use Hadoop or Spark when there is ElasticSearch?](https://www.quora.com/Why-do-people-use-Hadoop-or-Spark-when-there-is-ElasticSearch)
 * [What are alternatives to building a data warehouse?](https://www.quora.com/What-are-alternatives-to-building-a-data-warehouse)
@@ -23,7 +23,7 @@ Básicamente los componentes de este stack lo forman:
 
 * La herramienta de ingesta de datos [logstash](https://www.elastic.co/products/logstash) que en principio era utilizada únicamente para la ingesta de logs, pero que debido a su buena lista de [plugins](https://www.elastic.co/guide/en/logstash/current/input-plugins.html) podemos capturar muchos tipos de datos. Además es una herramienta sencilla de aprender y utilizar.
 * La herramienta [Elasticsearch](https://www.elastic.co/products/elasticsearch) basada en Lucene que nos permite indexar, almacenar y buscar sobre los datos ingeridos a través de logstash.
-* La herramienta [Kibana](https://www.elastic.co/products/kibana), que nos permite gestionar y visualizar cualquier conjunto de datos.
+* La herramienta [Kibana](https://www.elastic.co/products/kibana), que nos permite agregar y visualizar cualquier conjunto de datos.
 
 Esta pila es open source, pero podemos encontrar soporte comercial de [Elastic](https://www.elastic.co) que complementa además el stack con alguna aplicaciones interesantes como [Shield](https://www.elastic.co/products/shield) para el control de acceso y seguridad.
 
@@ -37,7 +37,7 @@ Para configurar un flujo de ingesta úncamente debemos configurar en un fichero 
 * Filtrado: Anonimato, Duplicación, Agregar, Eliminar, Métricas, ...
 * Salida: Elasticsearch, CSV, Email, Jira, ...
 
-Permite además capturar diversos tipos de datos en un mismo flujo o utilizar flujos distintos por lo que nos permite organizar la ingesta de datos según nuestras necesidades.
+Permite además capturar diversos tipos de datos en un mismo flujo o utilizar flujos distintos por lo podemos organizar la ingesta de datos según nuestras necesidades.
 
 Se trata de una herramienta autónoma realmente versatil y sencilla de utilizar. Está además bien documentada y en [stackoverflow] (http://stackoverflow.com/) tienes el triple de preguntas sobre logstash que sobre [flume](https://flume.apache.org/).
 
@@ -79,4 +79,4 @@ Con respecto al resto de componentes (logstash y Kibana) al ser autónomos puede
 
 ## En breve
 
-En el próximo artículo vamos a instalar un cluster ELK en Amazón Web Services y ejecutar una captura de datos de twitter.
+En el próximo artículo vamos a instalar un cluster ELK en Amazón Web Services y ejecutar una captura de datos de twitter. Lo tenéis [aquí](/post/Instalacion-cluster-ELK-Elasticsearch-logstash-kibana/)
