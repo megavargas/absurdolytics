@@ -499,7 +499,6 @@ a.archive-link {
 }
 /* Tables */
 table {
-  width: 100%;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
   border-collapse: collapse;
   margin: 1em 0 3em;
