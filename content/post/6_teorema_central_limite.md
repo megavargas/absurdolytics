@@ -17,7 +17,7 @@ Esto nos permite responder a problemas del siguiente tipo.
 
 > Con los datos de uso ocasional de BiciMad, ¿Cúal es el intervalo de confianza para la media de uso diario si cogemos un periódo de una semana de uso ?
 
-Vamos a resolver este problema con scipy
+Ahora no nos es necesario conocer la distribución de los datos, ya que vamos a trabajar con hipótesis para la media de muestras. Vamos a resolver este problema con scipy
 
 ```pyt
 import numpy as np
@@ -41,5 +41,3 @@ st.norm.interval(0.95,mean,ustd)
 # (189.75358701949591, 222.22156826000719)
 
 ```
-
-Este teorema es realmente útil y tiene inumerables usos, puedes obtener más información aquí
