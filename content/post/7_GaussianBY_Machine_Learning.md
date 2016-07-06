@@ -1,15 +1,15 @@
 +++
-date = "2016-07-03T19:08:11+02:00"
+date = "2016-07-04T19:08:11+02:00"
 draft = true
-title = "Aprendizaje automático - Naive Bayes "
+title = "Aprendizaje automático - Naive Bayes"
 description = "Posibilidades, funcionamiento y ejemplos de uso del algorimo Naive Bayes para clasificación y aprendizaje automáatico"
 slug = "machine-learning-naive-bayes"
-tags = ['Aprendizaje automático', 'Clasificación', 'sikit-learn', 'mllib', 'spark']
+tags = ['Aprendizaje automático', 'Clasificación', 'scikit-learn', 'mllib', 'spark']
 +++
 
 ## Introducción
 
-El algoritmo de aprendizaje automático Naive Bayes es una técnica de *clasificación* basada en el [Teorema de Bayes](https://es.wikipedia.org/wiki/Teorema_de_Bayes) que asume independiencia entre las muestras.
+El algoritmo de aprendizaje automático Naive Bayes es una técnica **probabilistica** de **clasificación** **supervisada** basada en el [Teorema de Bayes](https://es.wikipedia.org/wiki/Teorema_de_Bayes) que asume independiencia entre las muestras.
 
 Este modelo es relativamente sencillo de construir y particularmente útil cuando tenemos que enfrentarnos a grandes conjuntos de datos, logrando unos resultados que superan en muchas ocasiones a algoritmos más complejos.
 
