@@ -1,7 +1,7 @@
 +++
 date = "2016-06-30T19:08:11+02:00"
 draft = true
-title = "Instalar Zeppelin en Mac"
+title = "¿Cómo instalar Zeppelin en Mac?"
 description = "Montar un notebook Zeppelin en Mac"
 slug = "zeppelin-mac"
 tags = ['zeppelin', 'mac']

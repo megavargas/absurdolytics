@@ -1,8 +1,8 @@
 +++
 date = "2016-07-04T19:08:11+02:00"
 draft = true
-title = "Aprendizaje automático - Naive Bayes"
-description = "Posibilidades, funcionamiento y ejemplos de uso del algorimo Naive Bayes para clasificación y aprendizaje automáatico"
+title = "Aprendizaje automático - Clasificación - Naive Bayes"
+description = "Posibilidades, funcionamiento y ejemplos de uso del algorimo Naive Bayes para clasificación y aprendizaje automático"
 slug = "machine-learning-naive-bayes"
 tags = ['Aprendizaje automático', 'Clasificación', 'scikit-learn', 'mllib', 'spark']
 +++
@@ -13,7 +13,7 @@ El algoritmo de aprendizaje automático Naive Bayes es una técnica **probabilis
 
 Este modelo es relativamente sencillo de construir y particularmente útil cuando tenemos que enfrentarnos a grandes conjuntos de datos, logrando unos resultados que superan en muchas ocasiones a algoritmos más complejos.
 
-En contraprestación, este algoritmo asume sucesos totalmente independiente, lo que es realmente complicado de obtener en la vida real.
+En contraprestación, este algoritmo asume sucesos totalmente independientes, lo que es realmente complicado de obtener en la vida real.
 
 ## Aplicación de este algoritmo
 
@@ -59,7 +59,7 @@ clf.predict([-3.380000,-0.707700,2.532500,0.718080])
 # True banknote
 
 clf.predict([1,1,1,1])
-array([0])
+# array([0])
 # False banknote
 ```
 

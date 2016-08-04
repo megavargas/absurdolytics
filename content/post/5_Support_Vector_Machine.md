@@ -1,7 +1,7 @@
 +++
 date = "2016-07-05T19:08:11+02:00"
 draft = true
-title = "Support Vector Machine Learning"
+title = "Aprendizaje automático - Clasificación - Support Vector Machine Learning"
 description = "Ejemplos de uso de SVM con scikit-learn y mllib"
 slug = "machine-learning-SVN"
 tags = ['Aprendizaje automático', 'Clasificación', 'scikit-learn', 'mllib', 'spark']

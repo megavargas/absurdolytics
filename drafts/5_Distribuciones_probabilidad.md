@@ -1,7 +1,7 @@
 +++
 date = "2016-07-01T19:08:11+02:00"
 draft = true
-title = "Distribuciones de probabilidad con scipy"
+title = "Indicadores estadísticos básicos"
 description = "¿Qué es una distribución de probabilidad? ¿Cuál uso? ¿Qué puedo obtener? Algún ejemplo"
 slug = "distribuciones-probabilidad-scipy"
 tags = ['estadística']
