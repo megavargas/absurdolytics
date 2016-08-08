@@ -14,7 +14,6 @@ En este post vamos a partir de un conjunto de datos del portal de datos abiertos
 ```python
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import scipy as sp
 
 data = pd.read_csv('http://datos.madrid.es/egob/catalogo/216343-0-bicimad-disponibilidad.csv', sep=';', thousands='.', decimal=',').dropna()

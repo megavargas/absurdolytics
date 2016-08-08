@@ -1,0 +1,356 @@
+effort,dose,age
+22.7,High dose,44
+20.2,Placebo,44
+22.9,High dose,39
+19.4,Low dose,43
+20.3,Placebo,37
+19.6,Low dose,40
+16.3,Placebo,48
+18.7,Placebo,41
+17.6,Placebo,44
+16.7,Placebo,45
+14.6,High dose,55
+14.6,Placebo,51
+14.2,Low dose,53
+12.9,Placebo,55
+16.7,Low dose,45
+14.8,Low dose,50
+19.3,High dose,40
+17.1,Placebo,42
+17.7,High dose,45
+19.3,High dose,40
+12.8,Placebo,54
+12.8,Low dose,54
+15.3,Low dose,47
+16.8,High dose,46
+16.4,Low dose,43
+17.6,High dose,44
+18.7,High dose,40
+15.2,Placebo,46
+15,Placebo,47
+18.3,Low dose,38
+16.8,Low dose,42
+11.6,Placebo,56
+14.6,Placebo,47
+15.7,Placebo,44
+24.8,High dose,22
+15.5,Placebo,44
+25.4,High dose,21
+18,Low dose,38
+16.7,Low dose,42
+16.8,Low dose,41
+15.4,High dose,48
+17.4,High dose,43
+17.3,High dose,43
+16.3,Low dose,42
+18.2,High dose,40
+18.3,Low dose,37
+19.3,Low dose,34
+19.4,Low dose,33
+20.9,High dose,32
+22.1,Low dose,25
+16.9,High dose,43
+15.3,Placebo,44
+16.7,High dose,44
+20.3,High dose,34
+16.1,Low dose,42
+19,Placebo,33
+18.5,High dose,39
+17.7,Placebo,37
+14.3,Placebo,46
+15,Placebo,44
+14.1,Low dose,47
+17,Low dose,39
+13.2,Low dose,49
+11.2,Low dose,55
+12.4,Placebo,51
+15,Low dose,44
+19.4,Low dose,31
+15,Low dose,44
+17.2,High dose,41
+11.7,Placebo,52
+12.6,Low dose,50
+16.2,Low dose,40
+14.4,Placebo,44
+13.1,Low dose,49
+14.3,Low dose,45
+11.2,Placebo,53
+17.6,High dose,39
+15.2,Placebo,42
+17.2,High dose,40
+11.6,Low dose,52
+16.8,High dose,41
+10.9,Low dose,54
+16.6,High dose,42
+14.5,Placebo,43
+15.3,Placebo,41
+15.7,High dose,44
+9.4,Low dose,58
+14.3,Low dose,45
+15.2,High dose,45
+14.2,Low dose,45
+15.8,Low dose,40
+19.8,High dose,32
+13.9,Placebo,44
+11.8,Low dose,51
+15.2,Low dose,41
+14.5,Placebo,43
+13.6,Low dose,46
+16.2,Low dose,38
+21.1,High dose,28
+13.1,Low dose,47
+12.4,Low dose,49
+12.8,Placebo,47
+14.6,Low dose,42
+17.8,Placebo,33
+18.5,Low dose,32
+11.5,Placebo,50
+10.7,Low dose,53
+15.6,Low dose,39
+16.1,Placebo,37
+19.6,High dose,32
+14.4,Low dose,43
+10.9,Low dose,53
+22.1,High dose,25
+14,Placebo,43
+20.9,High dose,28
+18.4,High dose,35
+15,Low dose,41
+17.5,High dose,37
+9.2,Low dose,57
+17.4,High dose,37
+15.9,High dose,42
+16.1,Low dose,38
+16.5,Low dose,37
+10.5,Placebo,53
+15.6,High dose,42
+14.3,Low dose,43
+14.8,Placebo,40
+10.8,Low dose,52
+9.3,Placebo,56
+9.9,Placebo,54
+17.5,High dose,37
+14.3,Placebo,42
+15.8,Placebo,37
+17.5,Low dose,33
+11,Placebo,51
+16,High dose,41
+12.5,Low dose,47
+14.6,Low dose,41
+12.3,Placebo,47
+19.9,High dose,30
+13.6,Placebo,43
+18.7,High dose,33
+16.7,High dose,38
+12.4,Placebo,46
+13.3,Low dose,44
+11.7,Placebo,48
+17,Low dose,34
+12.9,Low dose,45
+12.3,Placebo,46
+13.8,Placebo,42
+16.3,High dose,39
+14.6,Placebo,40
+11.5,Placebo,48
+15.7,High dose,41
+14.3,High dose,45
+12.8,Placebo,45
+13.6,High dose,46
+11.2,Placebo,49
+16.9,High dose,37
+16.2,Placebo,35
+13.9,High dose,46
+13.2,Placebo,43
+11,Low dose,50
+13.2,Placebo,43
+16.7,Low dose,34
+11.8,Placebo,47
+11.5,Low dose,49
+11.4,Low dose,49
+12.6,Placebo,45
+9.8,Low dose,53
+12.9,Low dose,44
+6.1,Placebo,63
+7.9,Placebo,58
+14.8,Low dose,39
+11.5,Placebo,48
+10.4,Low dose,51
+13.9,High dose,45
+18.9,High dose,31
+10.5,Placebo,50
+14.2,Low dose,40
+14,Low dose,41
+15.1,High dose,41
+6,Placebo,62
+14.3,High dose,43
+12.3,Low dose,46
+10.9,Low dose,49
+11.2,Low dose,48
+16.7,High dose,36
+16.3,High dose,38
+11.8,Low dose,47
+15.4,Placebo,36
+8.6,Low dose,55
+18.4,High dose,32
+10.8,Placebo,49
+12.2,Placebo,45
+11.4,Placebo,47
+8.4,Low dose,56
+11.2,Low dose,48
+11.3,Low dose,48
+16.5,High dose,37
+13.7,Low dose,41
+14.3,Placebo,39
+8.5,Placebo,55
+13.8,Low dose,41
+20.7,High dose,25
+10.7,Placebo,49
+15.7,Low dose,35
+13.2,High dose,46
+15.5,Low dose,36
+16.8,Low dose,32
+10.7,Placebo,49
+13.3,High dose,45
+10,Placebo,51
+15.3,Placebo,36
+9,Low dose,54
+13.6,High dose,44
+16.3,High dose,37
+16.6,High dose,36
+17.8,High dose,32
+11.6,Low dose,46
+10.6,Placebo,48
+14.6,Low dose,38
+13.2,Low dose,42
+10.3,Placebo,49
+18.8,High dose,29
+11.7,Low dose,46
+16.2,High dose,37
+6.1,Low dose,61
+14.4,Low dose,38
+14.1,Low dose,39
+8.1,Placebo,55
+12.5,Low dose,43
+14,Placebo,38
+18.1,High dose,31
+19.7,High dose,27
+6.9,Placebo,58
+8.5,Placebo,54
+8.9,Placebo,53
+12.2,Low dose,44
+12.8,Low dose,42
+10.6,Low dose,48
+11.5,High dose,49
+11.1,High dose,51
+9.7,Placebo,50
+11.9,Placebo,44
+9.7,Low dose,51
+11,Placebo,46
+13.4,Low dose,40
+12.2,High dose,47
+9.2,Placebo,51
+13.2,High dose,44
+9.9,Placebo,50
+16.9,Low dose,30
+12.3,High dose,47
+20,High dose,25
+12.8,Low dose,42
+11.6,High dose,49
+7.6,Placebo,56
+12.1,Low dose,44
+15.3,High dose,38
+10.1,Placebo,48
+11.9,Placebo,43
+14,Low dose,38
+17,High dose,33
+12.2,Low dose,43
+22,High dose,19
+8.7,Placebo,52
+12.6,Placebo,41
+16.8,Placebo,30
+9.2,Placebo,51
+10.6,Low dose,47
+11.5,Low dose,45
+18,High dose,30
+12.7,Low dose,41
+12.7,Low dose,41
+12.3,Placebo,42
+10.5,Placebo,47
+11.3,Low dose,45
+10.4,Placebo,47
+9.9,Low dose,49
+10.1,Placebo,48
+12.9,Low dose,40
+9,Placebo,51
+13.1,High dose,43
+11.9,Placebo,42
+7.5,Low dose,55
+10.4,Placebo,46
+17,High dose,32
+10.4,Low dose,47
+14.9,Placebo,34
+17.2,High dose,31
+9.5,Low dose,49
+11.7,Placebo,42
+14.6,High dose,38
+16.3,Low dose,30
+17.2,Placebo,27
+4.8,Low dose,62
+14.1,Placebo,35
+8.9,Placebo,50
+8.3,High dose,55
+16.1,Placebo,29
+13.2,Placebo,38
+16.1,High dose,34
+11.5,Low dose,43
+8.9,High dose,53
+10.9,Placebo,44
+11.1,Low dose,44
+13.1,Low dose,38
+9.9,Low dose,47
+9,Low dose,49
+11,High dose,47
+10.2,Low dose,46
+9,Low dose,49
+3.3,Placebo,64
+11.3,Low dose,43
+11.6,High dose,45
+10.9,Placebo,43
+10.4,High dose,48
+16.7,Low dose,27
+12.6,Low dose,39
+11.4,Low dose,42
+11.4,High dose,45
+16.8,Low dose,27
+6,Placebo,56
+16.2,High dose,32
+8,Low dose,51
+14.3,High dose,37
+7.6,Low dose,52
+13.1,High dose,40
+5.9,Placebo,56
+7,Placebo,53
+5,Placebo,58
+5,Placebo,58
+4.6,Low dose,60
+6.6,Low dose,54
+11.2,Placebo,40
+14.2,High dose,36
+14.9,Placebo,30
+6.7,Low dose,53
+13.6,High dose,37
+7.5,Placebo,50
+4.8,Placebo,57
+7.5,Placebo,50
+9.8,Placebo,43
+13.6,High dose,37
+7.3,Low dose,50
+4.1,Placebo,59
+9.2,Low dose,45
+12.4,High dose,39
+17,High dose,26
+12.6,Low dose,35
+10.8,Low dose,39
+17.2,High dose,25
+16.2,High dose,26
+13.5,High dose,32

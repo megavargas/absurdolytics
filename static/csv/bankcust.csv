@@ -1,0 +1,851 @@
+age,educ,income,creddebt,otherdebt,default
+41,Some college,176,11.36,5.01,Yes
+27,Did not complete high school,31,1.36,4,No
+40,Did not complete high school,55,0.86,2.17,No
+41,Did not complete high school,120,2.66,0.82,No
+24,High school degree,28,1.79,3.06,Yes
+41,High school degree,25,0.39,2.16,No
+39,Did not complete high school,67,3.83,16.67,No
+43,Did not complete high school,38,0.13,1.24,No
+24,Did not complete high school,19,1.36,3.28,Yes
+36,Did not complete high school,25,2.78,2.15,No
+27,Did not complete high school,16,0.18,0.09,No
+25,Did not complete high school,23,0.25,0.94,No
+52,Did not complete high school,64,3.93,2.47,No
+37,Did not complete high school,29,1.72,3.01,No
+48,Did not complete high school,100,3.7,5.4,No
+36,High school degree,49,0.82,3.4,Yes
+36,High school degree,41,2.92,3.81,Yes
+43,Did not complete high school,72,1.18,4.29,No
+39,Did not complete high school,61,0.56,2.91,No
+41,Some college,26,0.1,0.34,No
+39,Did not complete high school,52,1.15,0.51,No
+47,Did not complete high school,43,0.59,1.82,No
+28,Did not complete high school,26,0.43,2.17,No
+29,Did not complete high school,27,0.4,2.24,No
+21,High school degree,16,0.24,2.64,Yes
+25,College degree,32,2.14,3.49,No
+45,High school degree,69,0.71,3.92,No
+43,Did not complete high school,64,0.95,9.74,No
+33,High school degree,58,3.08,7.59,No
+26,Some college,37,0.2,5.05,No
+45,Did not complete high school,20,0.11,0.32,No
+30,Did not complete high school,22,1.14,1.17,No
+27,Some college,26,0.72,0.84,No
+25,Did not complete high school,27,1.02,2.87,No
+25,Did not complete high school,35,0.08,0.94,No
+26,High school degree,45,6.05,5.65,No
+30,High school degree,22,1.41,2.13,No
+32,High school degree,54,3.2,4.58,No
+28,High school degree,24,1.34,2.77,Yes
+45,Did not complete high school,50,0.56,1.54,No
+23,Did not complete high school,31,0.34,1.71,No
+34,Did not complete high school,59,1.81,2.91,No
+42,High school degree,41,0.94,0.94,No
+39,Did not complete high school,48,1.93,4.36,No
+26,Did not complete high school,14,0.3,0.75,Yes
+21,High school degree,16,0.15,0.94,No
+35,Did not complete high school,35,0.43,1.14,No
+47,Did not complete high school,26,0.12,2.58,No
+23,High school degree,21,0.78,1.62,Yes
+35,Did not complete high school,42,0.21,2.9,No
+34,Did not complete high school,25,0.57,2.58,Yes
+46,Did not complete high school,20,0.81,1.99,No
+46,Did not complete high school,52,3.03,3.68,Yes
+38,Some college,25,0.31,0.61,No
+40,High school degree,28,0.55,2.11,No
+37,Did not complete high school,24,1.8,1.82,Yes
+35,Did not complete high school,34,0.4,1.3,No
+39,High school degree,69,1.06,0.59,No
+40,Some college,100,1.49,1.02,No
+50,Some college,80,2.48,7.28,No
+31,Did not complete high school,28,0.05,0.62,No
+29,Did not complete high school,42,1.46,1.65,Yes
+37,Did not complete high school,23,0.87,1.98,No
+33,High school degree,55,2.16,1.69,No
+26,High school degree,28,1.02,1.16,No
+32,High school degree,75,7.76,9.72,Yes
+28,High school degree,23,0.19,1.29,Yes
+39,Did not complete high school,46,2.52,1.67,No
+28,High school degree,31,1.49,1.05,Yes
+29,Did not complete high school,20,0.57,3.15,Yes
+34,High school degree,21,1.4,3.45,No
+28,High school degree,34,3.1,4.99,No
+47,Did not complete high school,100,4.58,8.22,No
+43,College degree,26,1.52,1.24,No
+41,Did not complete high school,44,0.07,0.68,No
+47,Did not complete high school,51,3.74,8.4,No
+24,Did not complete high school,21,0.03,0.1,No
+29,Did not complete high school,17,0.16,0.98,No
+33,Did not complete high school,37,0.2,0.76,No
+36,Did not complete high school,39,0.69,0.56,No
+26,Did not complete high school,27,2.47,0.36,Yes
+31,Did not complete high school,45,2.74,4.91,No
+37,Did not complete high school,32,2.7,3.58,No
+35,College degree,29,1.84,1.35,No
+26,Did not complete high school,20,0.32,0.76,No
+40,Did not complete high school,45,2.01,6.45,No
+29,High school degree,36,3.49,0.97,Yes
+37,Some college,29,1.41,5.73,No
+32,Did not complete high school,28,0.12,0.7,No
+23,High school degree,17,2.04,2.67,Yes
+32,Did not complete high school,23,0.05,1.37,No
+25,Did not complete high school,15,0.37,1.34,Yes
+38,Did not complete high school,54,1.5,4.22,No
+32,High school degree,18,0.3,0.75,Yes
+41,Some college,15,1.96,1.98,Yes
+36,Did not complete high school,54,0.73,1.65,No
+42,Some college,82,1.32,1.39,No
+41,Did not complete high school,52,0.93,2.87,No
+29,High school degree,19,0.68,0.52,No
+38,Some college,31,1.33,1.55,Yes
+39,Did not complete high school,113,0.99,1.95,No
+36,Did not complete high school,26,0.03,2.13,No
+33,Did not complete high school,27,0.78,0.79,No
+42,High school degree,121,1.37,2.39,No
+41,High school degree,75,9.88,7.82,No
+40,Did not complete high school,28,0.53,0.47,No
+53,Did not complete high school,50,2.02,3.58,Yes
+28,Did not complete high school,26,1.3,2.21,No
+36,High school degree,60,1.72,3.02,No
+34,High school degree,45,1.12,3.43,No
+45,Some college,39,0.46,1.45,No
+38,Did not complete high school,41,0.27,3.38,No
+21,Some college,24,0.83,1.01,No
+42,Did not complete high school,51,2.41,8.5,No
+52,Did not complete high school,64,1.87,3.64,No
+25,High school degree,33,0.55,1.16,No
+34,High school degree,65,2.11,1.92,No
+40,High school degree,73,1.03,1.45,No
+31,High school degree,27,1.09,2.37,Yes
+25,Did not complete high school,20,0.47,0.87,Yes
+45,Did not complete high school,37,1.34,2.17,No
+23,Did not complete high school,19,0.28,1.32,Yes
+34,College degree,27,1.98,7.55,Yes
+31,Did not complete high school,22,1.09,1.7,Yes
+28,Did not complete high school,22,0.14,0.48,No
+41,Did not complete high school,43,0.69,1.2,No
+39,High school degree,68,1.02,7.82,Yes
+29,High school degree,36,0.13,0.38,No
+21,Did not complete high school,25,0.37,1.88,No
+41,High school degree,68,1.51,2.44,No
+26,College degree,27,0.31,0.47,No
+33,Did not complete high school,18,0.98,1.34,No
+45,High school degree,35,0.55,5.54,No
+39,Did not complete high school,60,2.45,5.77,No
+24,Did not complete high school,21,0.52,0.8,No
+29,High school degree,57,0.45,0.8,No
+27,High school degree,23,0.29,2.57,No
+40,Did not complete high school,28,0.96,0.69,No
+29,Did not complete high school,24,0.47,1.14,No
+29,High school degree,37,1.16,1.28,Yes
+24,Did not complete high school,16,1.01,1.55,Yes
+27,Did not complete high school,45,2.85,5.16,Yes
+41,Some college,135,1.28,4.66,No
+31,Did not complete high school,25,0.14,2.13,No
+41,Did not complete high school,68,0.45,3.22,No
+42,High school degree,41,0.36,1.04,No
+28,College degree,26,0.38,2.85,No
+30,College degree,25,1.77,0.73,No
+30,Did not complete high school,33,0.68,2.09,No
+31,Did not complete high school,44,1.72,1.8,No
+45,High school degree,51,1.55,7.68,No
+43,Did not complete high school,76,2.15,2.48,Yes
+36,Did not complete high school,23,1.33,2.42,No
+28,Did not complete high school,30,0.61,1.55,No
+27,High school degree,33,1.63,2.72,No
+36,Some college,39,2.8,4.69,No
+33,Did not complete high school,32,2.1,1.51,No
+54,Did not complete high school,28,1.56,2.59,Yes
+33,Did not complete high school,29,1.35,2.65,Yes
+31,Did not complete high school,26,0.31,0.86,No
+21,Did not complete high school,26,1.42,0.89,No
+28,Some college,44,0.77,3.05,No
+31,High school degree,26,0.28,1.49,Yes
+32,Did not complete high school,26,0.33,0.74,No
+35,High school degree,24,0.59,2.41,Yes
+40,High school degree,102,6.23,13.05,Yes
+22,Did not complete high school,24,1.64,2.11,Yes
+39,Did not complete high school,38,1.18,1.29,No
+41,College degree,44,0.35,0.39,No
+34,Did not complete high school,79,1.73,1.43,No
+29,Did not complete high school,22,0.55,1.58,No
+31,Did not complete high school,28,0.29,2.87,No
+32,Did not complete high school,20,0.31,0.65,Yes
+32,Did not complete high school,73,3.75,2.67,No
+33,Did not complete high school,21,0.57,1.01,No
+26,Did not complete high school,22,0.72,1.55,No
+21,Did not complete high school,18,0.16,2.96,No
+28,High school degree,34,0.36,2.02,No
+37,Did not complete high school,24,0.6,1.53,No
+33,High school degree,35,2.12,5.89,Yes
+39,Did not complete high school,46,0.56,1.74,No
+40,High school degree,57,0.88,2.31,No
+45,Some college,80,0.91,1.49,No
+27,Did not complete high school,34,0.85,1.36,No
+28,College degree,29,1.42,5.59,No
+39,Did not complete high school,27,0.97,1.19,No
+40,Did not complete high school,43,2.79,3.66,Yes
+27,Did not complete high school,56,4.64,4.83,No
+36,Did not complete high school,16,0.43,1.05,No
+55,Did not complete high school,78,4.4,7.76,No
+27,High school degree,22,1.09,1.82,Yes
+30,Did not complete high school,17,0.75,1.12,No
+36,Did not complete high school,28,0.82,2.32,Yes
+31,Did not complete high school,21,0.28,0.25,Yes
+33,High school degree,40,0.18,2.7,No
+30,Did not complete high school,33,0.5,0.89,No
+24,Did not complete high school,18,0.24,0.82,Yes
+33,College degree,28,0.38,0.83,No
+50,Did not complete high school,47,0.4,2.84,No
+31,High school degree,32,3.34,4.05,Yes
+28,Did not complete high school,19,0.26,0.52,No
+44,Some college,88,0.28,5.08,Yes
+48,College degree,45,0.97,3.44,No
+36,High school degree,30,0.33,2.58,No
+29,Some college,63,0.57,2.89,No
+40,Some college,116,2.56,4.4,No
+33,Did not complete high school,26,0.54,1.02,No
+26,High school degree,30,0.14,0.16,No
+36,Did not complete high school,81,1.78,4.05,No
+26,High school degree,35,0.09,0.58,No
+40,Some college,116,1.61,12.42,No
+44,Did not complete high school,48,1.97,2.35,Yes
+29,Some college,30,0.28,1.07,No
+35,Some college,37,0.58,1.42,Yes
+34,Did not complete high school,75,3.95,3.85,No
+34,Some college,47,1.3,1.85,No
+46,Did not complete high school,35,1.35,2.22,No
+41,High school degree,145,3.24,14.45,No
+27,High school degree,30,0.45,0.75,Yes
+27,College degree,70,1.62,3.98,Yes
+28,Did not complete high school,24,0.11,0.47,No
+48,Some college,19,0.85,1.2,No
+48,Some college,113,3.38,10.18,No
+29,Some college,70,3.18,10.75,Yes
+43,High school degree,60,4.04,8.2,Yes
+23,Did not complete high school,17,0.3,1.04,No
+29,High school degree,44,3.7,4.26,No
+40,College degree,75,0.88,0.54,No
+22,High school degree,20,0.21,0.91,No
+23,Did not complete high school,22,0.85,2.32,No
+46,Some college,60,1.61,7.57,No
+55,Did not complete high school,40,0.56,2.64,Yes
+38,High school degree,38,0.03,0.2,No
+35,High school degree,33,0.1,0.82,No
+30,Did not complete high school,27,0.07,0.17,No
+24,Did not complete high school,18,0.53,0.64,No
+26,High school degree,28,0.23,2.43,No
+32,High school degree,15,0.12,1.25,Yes
+37,High school degree,75,0.63,1.99,No
+39,Did not complete high school,42,2.54,5.82,Yes
+30,High school degree,21,0.49,3.35,No
+30,Did not complete high school,39,2.06,1.65,No
+32,High school degree,32,0.43,0.94,No
+54,Some college,118,9.6,7.39,No
+27,Some college,35,1.6,3.05,No
+31,Did not complete high school,31,2.06,5.29,No
+39,Did not complete high school,39,0.14,0.56,No
+31,Did not complete high school,25,1.18,2.35,No
+35,Did not complete high school,40,1.21,6.19,No
+35,High school degree,98,4.87,8.16,No
+46,High school degree,144,3.32,12.66,No
+33,Did not complete high school,52,2.71,8.36,Yes
+35,High school degree,105,1.42,0.58,No
+35,High school degree,21,0.37,1.29,No
+38,Did not complete high school,21,0.45,1.44,No
+41,Did not complete high school,96,2.25,5.23,No
+38,Did not complete high school,44,0.61,1.37,No
+34,Some college,39,1.14,4.01,No
+51,Some college,82,2.6,1,No
+34,High school degree,33,0.57,2.56,No
+47,Did not complete high school,30,2.21,5.14,No
+34,High school degree,78,2.16,2.06,No
+27,High school degree,18,0.4,1.74,No
+52,Did not complete high school,24,0.8,3.81,Yes
+39,Did not complete high school,35,0.23,1.52,No
+33,Did not complete high school,22,0.63,0.78,No
+34,Did not complete high school,21,0.19,1.32,No
+31,Some college,59,3.11,5.5,Yes
+28,Did not complete high school,16,0.87,1.56,No
+39,Did not complete high school,45,0.92,0.75,No
+51,High school degree,120,4.14,4.98,No
+22,Did not complete high school,16,0.08,0.11,No
+27,Some college,26,0.93,1.77,No
+32,Did not complete high school,38,0.69,7.29,No
+28,High school degree,38,0.77,1.96,No
+27,High school degree,20,0.38,1.68,Yes
+26,High school degree,24,1.58,1.69,Yes
+32,Did not complete high school,36,0.27,0.59,No
+30,Did not complete high school,17,0.45,0.18,Yes
+39,Did not complete high school,38,1.9,1.48,No
+31,Did not complete high school,28,0.35,1,Yes
+34,Did not complete high school,39,4.37,5.26,Yes
+31,Did not complete high school,41,0.13,5.03,No
+29,High school degree,25,0.57,2.03,No
+29,Did not complete high school,25,1.07,2.4,No
+35,High school degree,30,0.65,1.63,No
+29,Did not complete high school,32,0.93,0.99,No
+38,High school degree,22,1.21,3.79,Yes
+35,Did not complete high school,36,0.18,1.05,No
+29,Did not complete high school,36,0.71,1.49,No
+23,High school degree,34,0.26,1.23,No
+33,College degree,32,0.5,1.26,No
+51,High school degree,159,1.07,3.38,No
+24,Did not complete high school,21,0.1,0.45,No
+31,Did not complete high school,49,3.24,1.57,Yes
+45,Did not complete high school,52,0.93,1.88,No
+29,Did not complete high school,17,0.47,1.06,No
+34,Did not complete high school,20,2.05,1.37,No
+25,High school degree,27,0.55,0.8,Yes
+37,Did not complete high school,56,0.54,0.52,No
+47,Did not complete high school,129,20.56,12.08,Yes
+43,High school degree,54,0.62,4.56,No
+47,Did not complete high school,81,1.51,2.95,No
+24,Did not complete high school,21,0.11,0.98,No
+27,Some college,75,2.21,2.52,No
+25,Did not complete high school,18,0.07,0.15,No
+36,Some college,44,0.45,6.02,No
+39,Did not complete high school,57,1.56,9.5,No
+26,Did not complete high school,25,1.31,0.47,No
+41,Did not complete high school,25,1.06,1.46,No
+39,Did not complete high school,60,9.59,6.67,Yes
+37,Did not complete high school,54,4.59,1.94,No
+29,Did not complete high school,14,0.59,1.43,Yes
+42,Did not complete high school,31,1.02,2.57,No
+31,College degree,29,1.07,2.15,No
+36,Did not complete high school,17,0.52,2.42,No
+39,Did not complete high school,52,4.16,6.24,No
+23,College degree,23,0.47,1.07,No
+39,Did not complete high school,33,0.4,1.91,No
+27,Some college,40,0.28,0.96,Yes
+24,Did not complete high school,24,0.38,0.82,No
+27,Some college,45,0.29,4.66,Yes
+41,Did not complete high school,49,0.43,0.35,No
+38,Did not complete high school,23,0.9,0.97,Yes
+40,High school degree,35,1.58,4.16,Yes
+54,Did not complete high school,120,14.6,17.2,Yes
+40,Did not complete high school,89,2.77,12.71,No
+40,Did not complete high school,32,0.85,0.33,No
+29,Did not complete high school,31,0.16,2.32,No
+30,Did not complete high school,23,0.76,2,No
+29,Did not complete high school,18,0.03,0.17,No
+29,Some college,50,0.26,0.94,Yes
+28,College degree,41,0.46,0.57,Yes
+28,College degree,38,0.64,3.32,No
+39,High school degree,89,5,7.73,No
+32,Did not complete high school,53,0.09,1.66,No
+36,High school degree,43,2.65,3.97,No
+39,Did not complete high school,39,0.77,2.42,No
+28,Some college,47,5.57,3.73,Yes
+28,Did not complete high school,28,0.44,3.54,Yes
+46,Did not complete high school,31,1.99,1.8,No
+30,High school degree,15,0.35,0.62,No
+39,High school degree,32,0.42,1.15,No
+40,Some college,220,8.17,27.03,Yes
+44,High school degree,74,4.52,5.39,No
+30,Did not complete high school,19,0.62,2.53,Yes
+24,High school degree,19,0.36,0.46,No
+32,Did not complete high school,32,1.17,2.45,No
+29,High school degree,15,0.15,0.24,No
+40,High school degree,36,0.28,1.09,No
+41,High school degree,43,0.09,0.22,No
+22,Did not complete high school,17,0.81,2.36,No
+38,Did not complete high school,34,0.04,0.37,No
+37,High school degree,62,1.19,4.08,No
+41,Some college,71,6.57,4.58,Yes
+41,Some college,56,0.37,7.75,Yes
+39,Did not complete high school,22,1.92,3.17,Yes
+24,High school degree,15,0.32,2.09,Yes
+32,Some college,51,2.69,9.04,No
+21,Some college,26,1.53,0.47,No
+29,Did not complete high school,27,0.07,0.55,No
+35,High school degree,82,0.47,0.19,No
+29,Did not complete high school,21,1.11,2.69,No
+41,High school degree,30,0.11,1.9,No
+37,Did not complete high school,18,1.58,0.74,Yes
+32,High school degree,47,0.43,0.46,No
+36,Post-undergraduate degree,20,0.73,0.89,No
+39,High school degree,44,0.37,0.56,No
+36,Did not complete high school,67,5.25,2.26,No
+46,Some college,99,0.83,1.45,No
+34,Did not complete high school,51,1.88,3.02,No
+27,Did not complete high school,26,0.64,1.72,No
+43,Did not complete high school,45,0.68,0.81,No
+33,Did not complete high school,72,15.02,14.72,Yes
+39,High school degree,101,0.34,1.07,No
+29,Did not complete high school,17,0.13,0.29,No
+34,College degree,40,0.95,1.61,No
+26,Did not complete high school,21,0.61,0.42,No
+31,Did not complete high school,60,0.8,2.08,No
+26,Did not complete high school,24,0.31,0.34,No
+28,Did not complete high school,45,1.85,1.61,No
+48,Did not complete high school,50,6.11,9.29,Yes
+39,High school degree,46,4,3.36,Yes
+37,Did not complete high school,25,0.28,0.65,No
+52,Post-undergraduate degree,70,1.33,5.25,Yes
+48,Did not complete high school,27,1.4,4.35,No
+26,Did not complete high school,22,0.21,0.91,No
+46,Post-undergraduate degree,126,0.48,3.43,No
+31,Did not complete high school,23,0.23,0.9,No
+34,Did not complete high school,56,0.86,2.55,No
+40,Did not complete high school,95,0.63,2.79,No
+24,Some college,16,0.27,0.75,Yes
+33,Did not complete high school,44,0.53,0.84,No
+53,College degree,78,6.94,6.56,Yes
+47,Some college,52,2.54,7.91,Yes
+35,Did not complete high school,32,0.17,3.99,No
+34,Did not complete high school,28,1.14,3.62,No
+49,Did not complete high school,39,2.46,1.48,No
+26,High school degree,28,1.27,1.33,No
+23,Did not complete high school,16,0.8,0.73,Yes
+23,High school degree,21,0.45,1.37,No
+38,High school degree,56,0.44,0.45,No
+28,High school degree,37,1.12,1.95,No
+30,Some college,65,3.9,15.41,Yes
+34,Did not complete high school,34,2.1,3.14,No
+50,High school degree,71,1.66,6.22,No
+29,Did not complete high school,40,1.63,1.05,No
+42,Some college,64,0.28,3.95,No
+31,Did not complete high school,27,0.24,1.11,No
+39,Did not complete high school,31,0.18,1.3,No
+45,High school degree,132,2.56,1.4,No
+45,Did not complete high school,91,1.26,9.39,No
+36,Did not complete high school,53,1.89,1.13,No
+25,College degree,24,1.6,1.31,Yes
+29,High school degree,29,2.33,3.82,Yes
+30,High school degree,56,0.33,3.25,No
+31,Did not complete high school,24,0.22,0.86,No
+43,Did not complete high school,29,0.05,1.28,No
+32,High school degree,57,5.44,8.13,Yes
+47,Did not complete high school,50,3.18,11.87,No
+46,Did not complete high school,21,1.38,1.73,Yes
+43,High school degree,83,0.26,3.14,No
+48,Did not complete high school,24,0.76,0.92,No
+30,Some college,61,0.55,1.16,No
+23,College degree,32,0.82,5.07,Yes
+36,College degree,32,0.02,0.49,No
+20,Some college,17,0.04,0.35,No
+43,Did not complete high school,89,0.16,0.2,No
+23,Did not complete high school,25,0.12,1,Yes
+41,Did not complete high school,76,6.95,8.63,No
+34,Did not complete high school,68,7.82,9.25,Yes
+50,Did not complete high school,36,0.83,0.89,No
+40,Did not complete high school,64,0.79,3.43,No
+29,High school degree,22,1.04,1.8,Yes
+39,High school degree,56,4.76,5.71,No
+24,High school degree,42,0.84,1.56,No
+27,Did not complete high school,16,0.13,0.05,No
+40,Some college,157,3.33,7.04,No
+32,High school degree,45,0.98,0.68,No
+39,High school degree,53,0.69,1.27,No
+40,Did not complete high school,100,5.4,9.2,No
+32,Did not complete high school,42,1.54,2.28,No
+39,Did not complete high school,75,3.13,11.04,No
+24,Did not complete high school,21,2.68,3.39,Yes
+43,College degree,446,16.03,12.96,Yes
+56,Did not complete high school,59,4.67,4.18,No
+32,Some college,23,0.33,0.71,No
+42,Did not complete high school,25,1.63,0.92,No
+46,Some college,43,3.04,2.63,Yes
+31,Did not complete high school,22,1.74,1.87,Yes
+43,Did not complete high school,242,1.64,4.66,No
+28,High school degree,22,0.65,1.88,No
+39,Some college,39,2.56,2.47,No
+39,Did not complete high school,39,1.07,2.01,No
+37,College degree,33,2.69,2.62,Yes
+30,Did not complete high school,17,0.3,1.74,No
+37,Post-undergraduate degree,177,0.89,9.56,No
+22,Did not complete high school,14,0.23,2.22,No
+50,Did not complete high school,26,1.85,1.87,No
+30,Did not complete high school,19,0.34,0.5,No
+39,Did not complete high school,21,0.28,0.56,No
+21,High school degree,21,0.49,2.14,Yes
+31,Some college,28,0.12,0.61,No
+31,High school degree,30,0.6,1.14,No
+48,Did not complete high school,30,2.66,4.03,No
+28,Did not complete high school,16,1.09,2.72,No
+47,Some college,221,15.79,23.1,Yes
+27,High school degree,34,0.24,1.26,No
+29,High school degree,65,1.99,9.97,No
+21,High school degree,20,0.29,0.61,Yes
+29,Did not complete high school,20,1.01,2.95,Yes
+24,College degree,29,0.59,1.32,Yes
+44,Did not complete high school,31,0.36,2.65,No
+22,Did not complete high school,18,0.27,0.52,No
+38,High school degree,59,0.41,1.01,No
+52,High school degree,76,0.99,4.86,No
+25,Did not complete high school,18,0.35,2.58,Yes
+25,Did not complete high school,22,0.4,2,No
+51,High school degree,166,0.82,18.27,No
+38,Did not complete high school,58,4.58,4.99,No
+44,Did not complete high school,33,0.55,1.17,No
+24,High school degree,26,0.89,1.63,Yes
+34,Did not complete high school,33,0.78,1.63,No
+25,High school degree,26,0.07,1.1,No
+45,Some college,94,3.61,6.26,Yes
+34,High school degree,25,0.57,0.88,No
+27,College degree,23,0.32,0.99,Yes
+33,High school degree,57,6.11,5.8,Yes
+35,High school degree,22,1.97,1.33,Yes
+50,High school degree,60,0.47,0.19,No
+33,Did not complete high school,42,0.23,1.28,No
+41,Some college,91,2.32,20.62,Yes
+28,Did not complete high school,28,2.28,7.04,Yes
+38,Some college,63,5.72,4.36,Yes
+25,Did not complete high school,16,1.01,1.84,Yes
+47,High school degree,33,1.19,1.15,Yes
+30,High school degree,98,2.94,4.12,No
+44,High school degree,86,1.48,9.7,No
+25,Did not complete high school,18,0.51,2.89,Yes
+41,High school degree,36,4.51,2.51,Yes
+22,Some college,18,0.48,0.91,No
+35,High school degree,40,1.8,5.08,Yes
+42,Post-undergraduate degree,190,3.16,11.66,No
+38,Did not complete high school,23,0.83,2.55,No
+23,High school degree,18,0.89,2.48,Yes
+28,Some college,30,1.52,4.45,No
+52,Did not complete high school,89,0.4,3.79,No
+25,Did not complete high school,20,0.11,0.6,No
+28,High school degree,16,0.57,1.78,No
+43,Did not complete high school,79,0.78,5.14,No
+24,High school degree,24,2.17,2.41,No
+34,Some college,52,1.5,3.29,No
+29,High school degree,25,0.58,0.47,No
+31,Did not complete high school,21,0.73,1.01,No
+42,High school degree,48,1.2,2.93,Yes
+49,High school degree,51,0.54,7.11,No
+39,Did not complete high school,73,3.73,6.71,No
+45,Some college,22,0.03,0.89,No
+41,Did not complete high school,32,0.07,0.86,No
+29,High school degree,46,0.24,0.49,No
+35,Some college,38,1.38,4.36,No
+27,High school degree,25,0.71,0.99,No
+28,Did not complete high school,19,0.29,0.49,No
+48,Did not complete high school,66,1.47,0.64,No
+24,Did not complete high school,18,0.53,0.55,No
+31,Did not complete high school,33,0.15,1.24,No
+43,Did not complete high school,69,0.41,4.01,No
+42,Did not complete high school,24,0.67,1.88,No
+51,High school degree,249,4.27,15.15,No
+22,Did not complete high school,19,1.89,2.5,Yes
+37,Did not complete high school,31,1.7,1.93,Yes
+22,Some college,25,1.98,1.47,Yes
+49,High school degree,20,0.38,3,Yes
+29,Did not complete high school,30,0.15,2.31,No
+42,Did not complete high school,30,1.47,1.44,No
+34,Did not complete high school,67,3.74,5.1,No
+34,High school degree,27,0.3,0.16,No
+32,High school degree,43,1.81,4.64,Yes
+42,High school degree,66,1.64,4.69,No
+24,Did not complete high school,14,0.84,1.42,Yes
+34,Did not complete high school,48,1.47,2.17,No
+26,Did not complete high school,32,0.13,1.38,No
+30,High school degree,68,2.86,10.81,No
+32,Did not complete high school,16,0.89,3.67,Yes
+38,Some college,25,0.34,1.08,No
+43,High school degree,37,0.68,2.47,No
+31,High school degree,53,1.19,5.96,No
+37,College degree,123,3.02,18.26,No
+37,High school degree,20,0.17,4.17,Yes
+41,Some college,86,4.99,17.8,Yes
+32,Did not complete high school,20,0.26,0.34,Yes
+22,High school degree,35,0.78,2.37,Yes
+32,High school degree,63,5.55,5.92,No
+47,High school degree,41,0.46,3.44,No
+40,Did not complete high school,46,0.97,1.89,No
+31,Did not complete high school,22,0.37,1.1,No
+34,Some college,27,0.13,0.47,No
+52,College degree,234,7.39,10.63,No
+28,Did not complete high school,17,0.2,0.23,Yes
+38,Some college,63,5.09,3.35,No
+33,High school degree,26,0.03,0.78,No
+39,High school degree,32,1.43,0.68,No
+47,Some college,115,0.65,3.95,No
+36,High school degree,49,0.27,0.36,No
+29,Some college,84,6.91,4.51,Yes
+48,College degree,59,4.94,4.8,Yes
+38,Some college,64,0.89,2.82,No
+46,High school degree,15,0.01,0.63,No
+27,Some college,42,2.71,5.65,Yes
+54,Did not complete high school,114,3.29,6.4,No
+27,College degree,25,1.42,1.76,Yes
+23,Did not complete high school,17,0.01,0.26,No
+41,Did not complete high school,91,0.57,11.89,No
+24,Did not complete high school,15,0.07,1.62,Yes
+28,Did not complete high school,22,5.28,0.81,Yes
+26,Did not complete high school,14,0.26,1.21,No
+24,Did not complete high school,17,0.57,0.38,Yes
+49,High school degree,79,0.29,5.48,No
+28,High school degree,36,0.38,2.71,No
+38,Did not complete high school,18,0.13,2.21,No
+33,High school degree,37,0.83,0.83,No
+26,Did not complete high school,25,0.21,0.96,No
+36,Did not complete high school,40,1.98,1.94,No
+37,Some college,50,7.32,10.98,Yes
+25,College degree,18,2.8,3.21,Yes
+29,Did not complete high school,33,0.69,0.89,No
+27,High school degree,38,0.36,2.26,No
+45,Did not complete high school,62,2.44,6.86,No
+37,Did not complete high school,57,1.36,1.78,No
+29,High school degree,26,0.54,1.05,Yes
+51,Did not complete high school,44,4.96,0.85,Yes
+22,Some college,23,0.37,1.56,Yes
+30,College degree,30,0.26,4.45,No
+31,Did not complete high school,20,0.11,2.35,No
+28,Did not complete high school,18,1.94,0.72,Yes
+35,Did not complete high school,39,0.22,2.01,No
+25,College degree,34,0.13,2.76,Yes
+32,High school degree,28,2.59,1.55,Yes
+33,Did not complete high school,24,1.04,1.26,No
+28,High school degree,41,5.9,4.39,Yes
+46,Some college,73,2.22,1.72,No
+41,Did not complete high school,83,6.59,5.03,No
+42,High school degree,73,2.87,2.09,No
+41,College degree,47,0.44,1.91,No
+26,Did not complete high school,29,2.53,4.93,Yes
+47,Did not complete high school,113,2.38,8.02,No
+29,Did not complete high school,18,1.98,2.63,Yes
+34,Did not complete high school,36,0.62,1.07,No
+36,Did not complete high school,43,1.04,1.63,No
+38,High school degree,64,0.65,1.27,No
+41,High school degree,26,1.47,3.52,Yes
+46,Did not complete high school,31,1.62,2.66,No
+40,Some college,55,1.75,7.32,Yes
+44,High school degree,129,0.55,2.67,No
+35,Some college,39,1.6,2.45,No
+36,Did not complete high school,60,1.06,2.18,No
+28,High school degree,30,0.12,1.32,Yes
+29,High school degree,18,0.45,0.47,Yes
+23,High school degree,22,1.27,1.23,Yes
+41,High school degree,63,4.64,5.06,No
+25,Did not complete high school,19,0.19,1.12,No
+45,High school degree,29,0.44,1.12,No
+48,High school degree,148,3.97,6.68,No
+38,Did not complete high school,45,0.54,2.61,No
+29,Did not complete high school,46,1.17,1.31,No
+42,College degree,186,2.4,4.29,No
+31,Did not complete high school,47,2.86,2.26,No
+40,Did not complete high school,23,0.41,1.18,No
+26,Did not complete high school,21,1.02,3.14,No
+25,Did not complete high school,22,2.26,2.18,No
+53,College degree,61,1.87,2.94,No
+50,Some college,102,5.78,8.6,No
+47,Did not complete high school,136,14.23,17.18,Yes
+23,Did not complete high school,21,1.21,0.55,Yes
+37,Some college,83,0.32,3.08,No
+41,Did not complete high school,100,5.06,6.44,No
+28,High school degree,29,2.15,1.71,Yes
+31,Did not complete high school,41,3,9.59,Yes
+41,High school degree,19,0.12,1.07,No
+36,Did not complete high school,40,1.69,2.27,No
+41,Did not complete high school,19,0.24,0.59,No
+53,High school degree,44,1.33,1.13,No
+31,High school degree,25,2.33,0.54,No
+28,High school degree,25,0.34,0.39,No
+48,Did not complete high school,70,4.33,4.07,No
+23,High school degree,42,1.02,0.62,Yes
+31,Did not complete high school,34,0.3,2.01,No
+27,Did not complete high school,43,0.88,1.22,No
+43,Did not complete high school,37,0.18,0.3,No
+29,High school degree,28,2.13,3.11,No
+53,Did not complete high school,27,0.59,1.13,Yes
+38,Did not complete high school,19,1.25,1.34,No
+30,Did not complete high school,38,0.17,3.06,No
+28,Some college,20,0.23,1.65,Yes
+36,Did not complete high school,33,1.27,9.46,No
+48,Did not complete high school,60,0.32,0.94,No
+31,Did not complete high school,24,0.44,1.14,No
+35,Did not complete high school,57,1.14,4.84,No
+50,Did not complete high school,23,0.14,2.73,No
+42,High school degree,55,2.53,5.72,No
+40,Did not complete high school,28,0.18,1.8,No
+37,High school degree,31,0.12,0.16,Yes
+31,Some college,54,0.4,1.11,No
+38,Did not complete high school,35,1.27,1.53,No
+35,Did not complete high school,77,5.5,2.66,No
+44,Did not complete high school,101,2.99,2.66,No
+44,High school degree,113,3.19,11.72,No
+33,Did not complete high school,23,0.08,0.13,No
+35,Did not complete high school,29,0.26,1.16,No
+36,Some college,43,0.96,4.63,No
+23,High school degree,24,0.55,0.96,No
+27,Did not complete high school,18,0.58,1.72,No
+34,Did not complete high school,20,0.04,0.2,No
+35,Did not complete high school,34,1.37,2.4,Yes
+24,High school degree,20,0.32,0.42,No
+48,Did not complete high school,101,1.87,4.59,No
+26,High school degree,40,0.44,4.28,No
+40,Did not complete high school,36,0.39,0.37,Yes
+34,Did not complete high school,48,0.42,4.04,No
+35,Did not complete high school,42,0.09,1.17,No
+30,Did not complete high school,33,1.17,7.22,Yes
+20,Did not complete high school,14,0.2,1.16,Yes
+36,College degree,30,0.32,3.13,No
+21,Did not complete high school,16,0.14,0.87,No
+34,Did not complete high school,53,0.84,4.72,No
+35,Did not complete high school,39,1.7,4.58,Yes
+35,Some college,20,0.85,0.73,No
+34,Did not complete high school,33,2.5,0.9,Yes
+33,Did not complete high school,68,1.37,5.98,No
+30,Did not complete high school,18,0.23,1.7,No
+24,High school degree,16,0.02,1.14,No
+47,Did not complete high school,253,9.31,8.91,No
+53,Did not complete high school,27,2.75,5.05,Yes
+22,Some college,20,0.22,0.72,No
+48,High school degree,66,2.32,5.67,No
+36,High school degree,27,0.26,0.98,Yes
+29,High school degree,21,0.37,2.05,No
+33,Did not complete high school,32,0.49,1.94,No
+45,Did not complete high school,77,2.3,4.17,No
+37,Did not complete high school,44,2.99,3.47,No
+36,Did not complete high school,32,0.54,2.94,
+50,Did not complete high school,21,1.32,1.39,
+40,Did not complete high school,33,4.88,0.73,
+31,Did not complete high school,23,0.05,0.41,
+29,Did not complete high school,24,0.87,1.01,
+25,High school degree,14,0.23,1.15,
+34,Did not complete high school,28,1.06,1.57,
+50,Did not complete high school,150,13.55,35.2,
+27,Did not complete high school,26,0.13,0.18,
+31,College degree,97,1.83,3.99,
+45,Did not complete high school,27,0.42,0.29,
+35,Did not complete high school,28,0.11,0.25,
+47,High school degree,107,1.64,4.89,
+50,Some college,94,1.73,3.25,
+37,High school degree,108,5.25,7.49,
+46,Did not complete high school,41,0.59,9.01,
+26,College degree,92,6.51,5.45,
+33,Did not complete high school,46,2.4,1.33,
+43,Did not complete high school,32,1.23,4.85,
+49,High school degree,63,0.94,9.02,
+44,Did not complete high school,22,1.09,1.02,
+32,Did not complete high school,33,0.79,2.9,
+38,Did not complete high school,20,0.09,0.21,
+52,Did not complete high school,139,2.29,5.5,
+35,Did not complete high school,24,1.08,4.03,
+33,College degree,22,0.57,0.64,
+35,Did not complete high school,77,1.1,2.52,
+34,High school degree,40,0.37,0.27,
+39,Did not complete high school,53,0.19,1.77,
+31,Did not complete high school,27,0.67,0.78,
+37,Did not complete high school,27,0.42,2.12,
+44,Did not complete high school,40,0.34,4.02,
+30,Did not complete high school,27,1.28,2.05,
+37,Did not complete high school,58,2.87,3.11,
+35,Did not complete high school,40,0.57,0.59,
+43,Did not complete high school,26,0.75,1.09,
+26,Did not complete high school,17,0.14,0.71,
+35,Did not complete high school,42,0.77,6.62,
+24,Did not complete high school,19,1.19,0.9,
+24,Did not complete high school,23,0.24,0.88,
+26,Some college,40,1.9,2.42,
+34,Did not complete high school,48,0.26,2.18,
+44,College degree,78,0.56,0.22,
+46,Did not complete high school,72,0.83,2.77,
+40,Did not complete high school,55,2.13,4.14,
+37,College degree,29,2.78,1.68,
+35,Some college,30,1.53,1.65,
+46,High school degree,55,0.42,2,
+40,Some college,28,1.26,1.54,
+48,High school degree,86,0.15,0.89,
+53,Did not complete high school,324,7.05,15.63,
+45,Some college,84,1.28,9.73,
+32,Some college,22,0.38,1.09,
+43,Did not complete high school,62,0.69,5.13,
+29,High school degree,32,1.07,1.81,
+47,High school degree,49,0.25,0.19,
+21,High school degree,17,0.56,1.23,
+30,Did not complete high school,20,0.62,0.46,
+25,Some college,54,1.16,2.83,
+27,Did not complete high school,52,1.9,5.27,
+36,Did not complete high school,25,0.14,0.86,
+35,Did not complete high school,30,1.9,2.72,
+33,Did not complete high school,35,0.51,5.06,
+21,Some college,41,2.37,5.63,
+44,Did not complete high school,61,2.81,3.78,
+37,Did not complete high school,38,2.59,2.54,
+27,Did not complete high school,26,0.55,1.22,
+37,High school degree,47,1.6,2.91,
+48,High school degree,44,2.13,0.46,
+30,Did not complete high school,21,0.23,0.51,
+22,College degree,25,1.49,1.56,
+39,High school degree,47,1.56,2.01,
+26,Did not complete high school,18,0.57,2.22,
+29,High school degree,30,3.65,2.86,
+47,Did not complete high school,169,0.35,3.37,
+33,High school degree,37,1.03,2.08,
+23,High school degree,48,0.51,3.09,
+25,High school degree,35,1.97,3.81,
+34,Did not complete high school,23,0.62,0.67,
+56,Did not complete high school,66,0.85,1.33,
+32,Did not complete high school,23,0.86,1.39,
+27,Some college,50,1.04,6.31,
+41,High school degree,36,1.49,3.52,
+30,Did not complete high school,27,3.74,1.74,
+38,College degree,126,7.61,9.65,
+31,Did not complete high school,45,0.58,2.7,
+37,Some college,75,0.02,0.05,
+30,High school degree,26,0.25,0.74,
+44,High school degree,43,0.55,1.6,
+25,High school degree,42,3.37,3.14,
+33,High school degree,54,0.12,1.5,
+25,Did not complete high school,31,0.88,1.63,
+45,Did not complete high school,46,1.26,1.08,
+23,Did not complete high school,15,1.38,0.53,
+43,Did not complete high school,254,7,12.56,
+38,High school degree,40,0.9,1.14,
+24,Did not complete high school,16,0.88,0.27,
+29,High school degree,16,0.43,1.25,
+40,Did not complete high school,81,1,7.83,
+47,Did not complete high school,21,0.07,3.17,
+24,Did not complete high school,16,0.19,1.29,
+35,High school degree,35,2.38,1.96,
+38,Did not complete high school,42,0.89,2.93,
+48,Did not complete high school,70,10.68,9.06,
+35,High school degree,64,1.45,8.15,
+27,Did not complete high school,21,0.91,1.48,
+47,Some college,266,2.19,3.13,
+31,Did not complete high school,16,3.06,2.1,
+30,Did not complete high school,40,1.25,1.55,
+29,High school degree,61,0.8,2.98,
+26,College degree,64,7.75,7.16,
+38,Did not complete high school,65,2.53,8.39,
+45,Did not complete high school,29,0.74,1.03,
+29,Did not complete high school,23,1.1,1.04,
+52,Did not complete high school,73,1.05,5.3,
+24,Did not complete high school,20,0.32,0.5,
+33,High school degree,27,1.65,1,
+38,High school degree,21,0.61,0.35,
+26,Did not complete high school,15,0.39,0.42,
+26,Did not complete high school,22,0.24,1.17,
+35,Did not complete high school,37,4.21,2.15,
+43,Did not complete high school,66,2.34,3.47,
+45,Some college,140,4.18,15.28,
+24,Did not complete high school,46,0.53,1.22,
+44,Some college,78,3.15,5.04,
+29,High school degree,23,1.24,0.6,
+22,High school degree,14,0.24,2.15,
+38,Did not complete high school,37,0.08,3.1,
+46,Did not complete high school,30,1.42,3.86,
+46,College degree,73,0.56,0.25,
+32,Did not complete high school,25,0.6,1.28,
+39,Some college,126,1.41,7.16,
+40,High school degree,138,1.22,4.44,
+47,Did not complete high school,110,5.82,8.04,
+28,Did not complete high school,42,1.05,2.56,
+36,Did not complete high school,45,0.92,4.52,
+41,High school degree,93,9.54,4.13,
+31,High school degree,44,1.87,2.36,
+39,Did not complete high school,116,2.24,2.52,
+37,Did not complete high school,24,0.42,2.99,
+35,High school degree,62,9.7,10.39,
+35,College degree,45,1.04,2.78,
+51,College degree,26,2.01,1.52,
+36,Did not complete high school,27,0.72,1.17,
+23,Did not complete high school,13,0.05,0.36,
+34,Did not complete high school,32,0.24,0.62,
+32,High school degree,116,4.03,2.59,
+48,Did not complete high school,38,0.72,3.38,
+35,High school degree,24,0.42,1.45,
+37,Did not complete high school,41,0.9,4.39,

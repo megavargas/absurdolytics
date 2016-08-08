@@ -1,0 +1,541 @@
+effort,dose,gender
+9.5,placebo,male
+11,placebo,male
+8.3,placebo,male
+9,placebo,male
+10.4,placebo,male
+8.4,placebo,male
+10,placebo,male
+10.1,placebo,male
+8,placebo,male
+9,placebo,male
+11.1,placebo,male
+11,placebo,male
+10.9,placebo,male
+11.3,placebo,male
+13.5,placebo,male
+10.8,placebo,male
+11.5,placebo,male
+8,placebo,male
+10.5,placebo,male
+10.2,placebo,male
+12,placebo,male
+10.5,placebo,male
+11.1,placebo,male
+10.1,placebo,male
+10.8,placebo,male
+10.4,placebo,male
+6.9,placebo,male
+14.1,placebo,male
+12.3,placebo,male
+13.4,placebo,male
+7.4,placebo,male
+8.8,placebo,male
+5.1,placebo,male
+10.8,placebo,male
+10.2,placebo,male
+9.6,placebo,male
+12.6,placebo,male
+12,placebo,male
+11,placebo,male
+7.5,placebo,male
+8.7,placebo,male
+10.7,placebo,male
+9.8,placebo,male
+12.7,placebo,male
+12.5,placebo,male
+10.1,placebo,male
+6.5,placebo,male
+11.4,placebo,male
+9.7,placebo,male
+9.5,placebo,male
+7,placebo,male
+10.6,placebo,male
+14.8,placebo,male
+11.4,placebo,male
+8.8,placebo,male
+8.3,placebo,male
+8.1,placebo,male
+13.2,placebo,male
+11.9,placebo,male
+12.7,placebo,male
+10.2,placebo,male
+8.1,placebo,male
+12.3,placebo,male
+8.4,placebo,male
+8.6,placebo,male
+8.4,placebo,male
+8.1,placebo,male
+7.8,placebo,male
+8.1,placebo,male
+9.9,placebo,male
+8.2,placebo,male
+9.1,placebo,male
+8.9,placebo,male
+7.8,placebo,male
+8.3,placebo,male
+11,placebo,male
+14,placebo,male
+10.4,placebo,male
+9,placebo,male
+7.3,placebo,male
+9.3,placebo,male
+12.4,placebo,male
+10,placebo,male
+6.6,placebo,male
+11.2,placebo,male
+8.5,placebo,male
+8.5,placebo,male
+9.8,placebo,male
+10.8,placebo,male
+9.4,placebo,male
+11.3,placebo,female
+7.5,placebo,female
+11.7,placebo,female
+11.9,placebo,female
+11,placebo,female
+8.4,placebo,female
+10.8,placebo,female
+11.2,placebo,female
+10.9,placebo,female
+8.9,placebo,female
+8.4,placebo,female
+11.1,placebo,female
+10.3,placebo,female
+8.4,placebo,female
+11,placebo,female
+7.9,placebo,female
+8.3,placebo,female
+13,placebo,female
+8.8,placebo,female
+10.5,placebo,female
+10.4,placebo,female
+10,placebo,female
+11.9,placebo,female
+11,placebo,female
+10.7,placebo,female
+10.7,placebo,female
+11,placebo,female
+15,placebo,female
+11,placebo,female
+12.6,placebo,female
+9.4,placebo,female
+7.4,placebo,female
+9.8,placebo,female
+9.3,placebo,female
+11.4,placebo,female
+8.6,placebo,female
+8.8,placebo,female
+7.7,placebo,female
+10.4,placebo,female
+6.3,placebo,female
+11.6,placebo,female
+10.9,placebo,female
+10.6,placebo,female
+11.9,placebo,female
+12.8,placebo,female
+9.8,placebo,female
+10.3,placebo,female
+11.7,placebo,female
+8.1,placebo,female
+8.6,placebo,female
+10.4,placebo,female
+13.3,placebo,female
+7.7,placebo,female
+10.1,placebo,female
+11.9,placebo,female
+9.5,placebo,female
+11.4,placebo,female
+11.2,placebo,female
+8,placebo,female
+6.7,placebo,female
+6.9,placebo,female
+7.9,placebo,female
+11.4,placebo,female
+9,placebo,female
+6.2,placebo,female
+11,placebo,female
+10,placebo,female
+10.2,placebo,female
+9.2,placebo,female
+12.7,placebo,female
+10.5,placebo,female
+5.7,placebo,female
+10.3,placebo,female
+12.7,placebo,female
+10.3,placebo,female
+6,placebo,female
+10.1,placebo,female
+8.7,placebo,female
+10.4,placebo,female
+12.4,placebo,female
+9.5,placebo,female
+12,placebo,female
+9.4,placebo,female
+11.2,placebo,female
+13.9,placebo,female
+9.8,placebo,female
+10.2,placebo,female
+8.7,placebo,female
+8.3,placebo,female
+10.8,placebo,female
+16.7,low dose,male
+16.5,low dose,male
+15.6,low dose,male
+14.5,low dose,male
+14.7,low dose,male
+15.3,low dose,male
+13.2,low dose,male
+15.5,low dose,male
+13.6,low dose,male
+13.1,low dose,male
+12.3,low dose,male
+16.4,low dose,male
+16.2,low dose,male
+13.2,low dose,male
+12.4,low dose,male
+15.2,low dose,male
+15.1,low dose,male
+13.1,low dose,male
+17,low dose,male
+9,low dose,male
+9.4,low dose,male
+13.8,low dose,male
+12.7,low dose,male
+12.5,low dose,male
+12.5,low dose,male
+13.9,low dose,male
+10.8,low dose,male
+15.4,low dose,male
+14.1,low dose,male
+15,low dose,male
+15.3,low dose,male
+15.5,low dose,male
+11.6,low dose,male
+14.1,low dose,male
+11,low dose,male
+18.1,low dose,male
+17.1,low dose,male
+14.4,low dose,male
+12.6,low dose,male
+15.6,low dose,male
+12.1,low dose,male
+14.7,low dose,male
+14.1,low dose,male
+13.6,low dose,male
+10.5,low dose,male
+11.7,low dose,male
+12,low dose,male
+11,low dose,male
+14,low dose,male
+13.3,low dose,male
+14.6,low dose,male
+15.1,low dose,male
+12.2,low dose,male
+16.9,low dose,male
+15,low dose,male
+12.5,low dose,male
+16.1,low dose,male
+14.4,low dose,male
+10.5,low dose,male
+16.7,low dose,male
+15,low dose,male
+11.8,low dose,male
+11.4,low dose,male
+14.4,low dose,male
+15.8,low dose,male
+11.8,low dose,male
+16.6,low dose,male
+13.1,low dose,male
+13.4,low dose,male
+12,low dose,male
+13.8,low dose,male
+14.4,low dose,male
+14.6,low dose,male
+14.8,low dose,male
+14.1,low dose,male
+13.3,low dose,male
+12.9,low dose,male
+14.7,low dose,male
+14.2,low dose,male
+13,low dose,male
+15.6,low dose,male
+11.4,low dose,male
+17.2,low dose,male
+14.4,low dose,male
+13.5,low dose,male
+15.5,low dose,male
+15.4,low dose,male
+15.9,low dose,male
+12,low dose,male
+14.1,low dose,male
+11.8,low dose,female
+12.6,low dose,female
+14.5,low dose,female
+14.2,low dose,female
+11.1,low dose,female
+11.1,low dose,female
+11.7,low dose,female
+13.2,low dose,female
+12.7,low dose,female
+13.1,low dose,female
+11.5,low dose,female
+14.2,low dose,female
+12.3,low dose,female
+8.3,low dose,female
+9.2,low dose,female
+7.6,low dose,female
+14.1,low dose,female
+13.3,low dose,female
+9.6,low dose,female
+9.5,low dose,female
+16.2,low dose,female
+13.8,low dose,female
+11.1,low dose,female
+9.9,low dose,female
+12.2,low dose,female
+9.8,low dose,female
+11.1,low dose,female
+9.8,low dose,female
+11.2,low dose,female
+11.3,low dose,female
+9,low dose,female
+12.8,low dose,female
+10.6,low dose,female
+9.1,low dose,female
+9.4,low dose,female
+12.1,low dose,female
+8.4,low dose,female
+10.6,low dose,female
+13,low dose,female
+10.5,low dose,female
+8,low dose,female
+7.9,low dose,female
+10.1,low dose,female
+11.1,low dose,female
+8.8,low dose,female
+10.5,low dose,female
+8.3,low dose,female
+8.6,low dose,female
+13.4,low dose,female
+11.5,low dose,female
+11.5,low dose,female
+10.8,low dose,female
+15,low dose,female
+8.4,low dose,female
+12.9,low dose,female
+13,low dose,female
+8.8,low dose,female
+12,low dose,female
+11.7,low dose,female
+10,low dose,female
+10.7,low dose,female
+12.9,low dose,female
+7.4,low dose,female
+11.4,low dose,female
+11,low dose,female
+11.3,low dose,female
+11.6,low dose,female
+13.5,low dose,female
+7.8,low dose,female
+9.3,low dose,female
+8.9,low dose,female
+11.8,low dose,female
+10.3,low dose,female
+9.6,low dose,female
+10.6,low dose,female
+9.1,low dose,female
+14.9,low dose,female
+9,low dose,female
+12,low dose,female
+14.2,low dose,female
+11.2,low dose,female
+13.2,low dose,female
+12.3,low dose,female
+9.9,low dose,female
+11.3,low dose,female
+12.7,low dose,female
+11.2,low dose,female
+6.9,low dose,female
+11.4,low dose,female
+15.3,low dose,female
+19.4,high dose,male
+17.2,high dose,male
+17.4,high dose,male
+14,high dose,male
+19.6,high dose,male
+15.5,high dose,male
+17.7,high dose,male
+15.9,high dose,male
+13.8,high dose,male
+13.1,high dose,male
+13.5,high dose,male
+15.1,high dose,male
+17.7,high dose,male
+14.8,high dose,male
+16.1,high dose,male
+16,high dose,male
+16.5,high dose,male
+15.7,high dose,male
+14.9,high dose,male
+19.1,high dose,male
+18.5,high dose,male
+15.6,high dose,male
+15.8,high dose,male
+14.6,high dose,male
+18.7,high dose,male
+16.9,high dose,male
+11.6,high dose,male
+14.8,high dose,male
+15.7,high dose,male
+20.2,high dose,male
+15.1,high dose,male
+17.7,high dose,male
+13.3,high dose,male
+15,high dose,male
+16.2,high dose,male
+15.5,high dose,male
+13.5,high dose,male
+15.4,high dose,male
+15.8,high dose,male
+17.6,high dose,male
+12.9,high dose,male
+17.3,high dose,male
+17.1,high dose,male
+14.9,high dose,male
+18.9,high dose,male
+14.2,high dose,male
+14.9,high dose,male
+17.7,high dose,male
+17.7,high dose,male
+12.7,high dose,male
+17.6,high dose,male
+13.6,high dose,male
+15.6,high dose,male
+19.6,high dose,male
+16.3,high dose,male
+15.1,high dose,male
+11.8,high dose,male
+13.2,high dose,male
+15.3,high dose,male
+13.8,high dose,male
+16.5,high dose,male
+15.8,high dose,male
+15.5,high dose,male
+15,high dose,male
+16.2,high dose,male
+14.1,high dose,male
+16.9,high dose,male
+18.2,high dose,male
+17.2,high dose,male
+21.1,high dose,male
+15,high dose,male
+15.4,high dose,male
+18.5,high dose,male
+17,high dose,male
+12.2,high dose,male
+18.2,high dose,male
+17.9,high dose,male
+15.8,high dose,male
+15.7,high dose,male
+13.7,high dose,male
+15.7,high dose,male
+13.3,high dose,male
+16.2,high dose,male
+18.5,high dose,male
+17.8,high dose,male
+17.2,high dose,male
+15.2,high dose,male
+16.4,high dose,male
+16.9,high dose,male
+13.2,high dose,male
+11.3,high dose,female
+10.4,high dose,female
+11.3,high dose,female
+10.6,high dose,female
+13.3,high dose,female
+8.9,high dose,female
+10.4,high dose,female
+9.5,high dose,female
+11.5,high dose,female
+8.6,high dose,female
+12.9,high dose,female
+10,high dose,female
+14,high dose,female
+9.9,high dose,female
+15,high dose,female
+9.6,high dose,female
+15,high dose,female
+14.8,high dose,female
+12.5,high dose,female
+12.9,high dose,female
+13.3,high dose,female
+11.5,high dose,female
+13.9,high dose,female
+10.2,high dose,female
+12.3,high dose,female
+9.3,high dose,female
+11.3,high dose,female
+10.2,high dose,female
+8.8,high dose,female
+10.5,high dose,female
+11.2,high dose,female
+12.1,high dose,female
+9.7,high dose,female
+14.1,high dose,female
+14.5,high dose,female
+9.7,high dose,female
+13.6,high dose,female
+7.8,high dose,female
+12.8,high dose,female
+13,high dose,female
+13,high dose,female
+15.2,high dose,female
+12.5,high dose,female
+9.7,high dose,female
+12.1,high dose,female
+7.5,high dose,female
+12.3,high dose,female
+10.3,high dose,female
+12.3,high dose,female
+8.2,high dose,female
+10,high dose,female
+11.1,high dose,female
+11.2,high dose,female
+13.8,high dose,female
+9.4,high dose,female
+13.8,high dose,female
+12.3,high dose,female
+8.9,high dose,female
+11.9,high dose,female
+10.2,high dose,female
+10.1,high dose,female
+15.1,high dose,female
+13.8,high dose,female
+11.8,high dose,female
+14.4,high dose,female
+11.7,high dose,female
+10.7,high dose,female
+12,high dose,female
+7.4,high dose,female
+11.3,high dose,female
+11.3,high dose,female
+13.6,high dose,female
+15.9,high dose,female
+12.8,high dose,female
+10.1,high dose,female
+8.9,high dose,female
+11.7,high dose,female
+12.9,high dose,female
+13.6,high dose,female
+9.2,high dose,female
+10.8,high dose,female
+14.1,high dose,female
+10.2,high dose,female
+13.7,high dose,female
+10.5,high dose,female
+12.9,high dose,female
+11.4,high dose,female
+9.8,high dose,female
+11.9,high dose,female
+8.2,high dose,female

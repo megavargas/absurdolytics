@@ -1,0 +1,356 @@
+effort,dose
+20.3,placebo
+20.2,placebo
+19,placebo
+18.7,placebo
+17.8,placebo
+17.7,placebo
+17.6,placebo
+17.2,placebo
+17.1,placebo
+16.8,placebo
+16.7,placebo
+16.3,placebo
+16.2,placebo
+16.1,placebo
+16.1,placebo
+15.8,placebo
+15.7,placebo
+15.5,placebo
+15.4,placebo
+15.3,placebo
+15.3,placebo
+15.3,placebo
+15.2,placebo
+15.2,placebo
+15,placebo
+15,placebo
+14.9,placebo
+14.9,placebo
+14.8,placebo
+14.6,placebo
+14.6,placebo
+14.6,placebo
+14.5,placebo
+14.5,placebo
+14.4,placebo
+14.3,placebo
+14.3,placebo
+14.3,placebo
+14.1,placebo
+14,placebo
+14,placebo
+13.9,placebo
+13.8,placebo
+13.6,placebo
+13.2,placebo
+13.2,placebo
+13.2,placebo
+12.9,placebo
+12.8,placebo
+12.8,placebo
+12.8,placebo
+12.6,placebo
+12.6,placebo
+12.4,placebo
+12.4,placebo
+12.3,placebo
+12.3,placebo
+12.3,placebo
+12.2,placebo
+11.9,placebo
+11.9,placebo
+11.9,placebo
+11.8,placebo
+11.7,placebo
+11.7,placebo
+11.7,placebo
+11.6,placebo
+11.5,placebo
+11.5,placebo
+11.5,placebo
+11.4,placebo
+11.2,placebo
+11.2,placebo
+11.2,placebo
+11,placebo
+11,placebo
+10.9,placebo
+10.9,placebo
+10.8,placebo
+10.7,placebo
+10.7,placebo
+10.6,placebo
+10.5,placebo
+10.5,placebo
+10.5,placebo
+10.4,placebo
+10.4,placebo
+10.3,placebo
+10.1,placebo
+10.1,placebo
+10,placebo
+9.9,placebo
+9.9,placebo
+9.8,placebo
+9.7,placebo
+9.3,placebo
+9.2,placebo
+9.2,placebo
+9,placebo
+8.9,placebo
+8.9,placebo
+8.7,placebo
+8.5,placebo
+8.5,placebo
+8.1,placebo
+7.9,placebo
+7.6,placebo
+7.5,placebo
+7.5,placebo
+7,placebo
+6.9,placebo
+6.1,placebo
+6,placebo
+6,placebo
+5.9,placebo
+5,placebo
+5,placebo
+4.8,placebo
+4.1,placebo
+3.3,placebo
+22.1,low dose
+19.6,low dose
+19.4,low dose
+19.4,low dose
+19.4,low dose
+19.3,low dose
+18.5,low dose
+18.3,low dose
+18.3,low dose
+18,low dose
+17.5,low dose
+17,low dose
+17,low dose
+16.9,low dose
+16.8,low dose
+16.8,low dose
+16.8,low dose
+16.8,low dose
+16.7,low dose
+16.7,low dose
+16.7,low dose
+16.7,low dose
+16.5,low dose
+16.4,low dose
+16.3,low dose
+16.3,low dose
+16.2,low dose
+16.2,low dose
+16.1,low dose
+16.1,low dose
+15.8,low dose
+15.7,low dose
+15.6,low dose
+15.5,low dose
+15.3,low dose
+15.2,low dose
+15,low dose
+15,low dose
+15,low dose
+14.8,low dose
+14.8,low dose
+14.6,low dose
+14.6,low dose
+14.6,low dose
+14.4,low dose
+14.4,low dose
+14.3,low dose
+14.3,low dose
+14.3,low dose
+14.2,low dose
+14.2,low dose
+14.2,low dose
+14.1,low dose
+14.1,low dose
+14,low dose
+14,low dose
+13.8,low dose
+13.7,low dose
+13.6,low dose
+13.4,low dose
+13.3,low dose
+13.2,low dose
+13.2,low dose
+13.1,low dose
+13.1,low dose
+13.1,low dose
+12.9,low dose
+12.9,low dose
+12.9,low dose
+12.8,low dose
+12.8,low dose
+12.8,low dose
+12.7,low dose
+12.7,low dose
+12.6,low dose
+12.6,low dose
+12.6,low dose
+12.5,low dose
+12.5,low dose
+12.4,low dose
+12.3,low dose
+12.2,low dose
+12.2,low dose
+12.1,low dose
+11.8,low dose
+11.8,low dose
+11.7,low dose
+11.6,low dose
+11.6,low dose
+11.5,low dose
+11.5,low dose
+11.5,low dose
+11.4,low dose
+11.4,low dose
+11.3,low dose
+11.3,low dose
+11.3,low dose
+11.2,low dose
+11.2,low dose
+11.2,low dose
+11.1,low dose
+11,low dose
+10.9,low dose
+10.9,low dose
+10.9,low dose
+10.8,low dose
+10.8,low dose
+10.7,low dose
+10.6,low dose
+10.6,low dose
+10.4,low dose
+10.4,low dose
+10.2,low dose
+9.9,low dose
+9.9,low dose
+9.8,low dose
+9.7,low dose
+9.5,low dose
+9.4,low dose
+9.2,low dose
+9.2,low dose
+9,low dose
+9,low dose
+9,low dose
+8.6,low dose
+8.4,low dose
+8,low dose
+7.6,low dose
+7.5,low dose
+7.3,low dose
+6.7,low dose
+6.6,low dose
+6.1,low dose
+4.8,low dose
+4.6,low dose
+25.4,high dose
+24.8,high dose
+22.9,high dose
+22.7,high dose
+22.1,high dose
+22,high dose
+21.1,high dose
+20.9,high dose
+20.9,high dose
+20.7,high dose
+20.3,high dose
+20,high dose
+19.9,high dose
+19.8,high dose
+19.7,high dose
+19.6,high dose
+19.3,high dose
+19.3,high dose
+18.9,high dose
+18.8,high dose
+18.7,high dose
+18.7,high dose
+18.5,high dose
+18.4,high dose
+18.4,high dose
+18.2,high dose
+18.1,high dose
+18,high dose
+17.8,high dose
+17.7,high dose
+17.6,high dose
+17.6,high dose
+17.5,high dose
+17.5,high dose
+17.4,high dose
+17.4,high dose
+17.3,high dose
+17.2,high dose
+17.2,high dose
+17.2,high dose
+17.2,high dose
+17,high dose
+17,high dose
+17,high dose
+16.9,high dose
+16.9,high dose
+16.8,high dose
+16.8,high dose
+16.7,high dose
+16.7,high dose
+16.7,high dose
+16.6,high dose
+16.6,high dose
+16.5,high dose
+16.3,high dose
+16.3,high dose
+16.3,high dose
+16.2,high dose
+16.2,high dose
+16.2,high dose
+16.1,high dose
+16,high dose
+15.9,high dose
+15.7,high dose
+15.7,high dose
+15.6,high dose
+15.4,high dose
+15.3,high dose
+15.2,high dose
+15.1,high dose
+14.6,high dose
+14.6,high dose
+14.3,high dose
+14.3,high dose
+14.3,high dose
+14.2,high dose
+13.9,high dose
+13.9,high dose
+13.6,high dose
+13.6,high dose
+13.6,high dose
+13.6,high dose
+13.5,high dose
+13.3,high dose
+13.2,high dose
+13.2,high dose
+13.1,high dose
+13.1,high dose
+12.4,high dose
+12.3,high dose
+12.2,high dose
+11.6,high dose
+11.6,high dose
+11.5,high dose
+11.4,high dose
+11.1,high dose
+11,high dose
+10.4,high dose
+8.9,high dose
+8.3,high dose
