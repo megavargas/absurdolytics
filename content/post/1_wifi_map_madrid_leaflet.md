@@ -1,7 +1,7 @@
 +++
 date = "2016-06-19T19:08:11+02:00"
 draft = true
-title = "Leaflet.js / OpenStreetMap y Datos abiertos de Madrid"
+title = "Leaflet.js / OpenStreetMap y Datos abiertos de Madrid <Javascript>"
 description = "Una visualización utilizando leaflet.js / OpenStreetMap y datos abiertos de Madrid"
 slug = "Instalaciones-municipales-con-zonas-wifi-gratuitas-leaflet-OpenStreetMap-Madrid"
 tags = ['leaflet', 'mapas', 'OpenStreetMap']

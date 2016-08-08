@@ -1,7 +1,7 @@
 +++
 date = "2016-08-01T19:08:11+02:00"
 draft = true
-title = "Teorema central del límite"
+title = "Teorema central del límite <Python>"
 description = "¿Qué es y para que sirve?"
 slug = "teorema-central-limite"
 tags = ['Estadistica', 'python', 'CLT']

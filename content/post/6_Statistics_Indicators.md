@@ -1,7 +1,7 @@
 +++
 date = "2016-07-30T19:08:11+02:00"
 draft = true
-title = "Estadística básica - Normalidad y Valores extremos"
+title = "Estadística básica - Normalidad y Valores extremos <Python>"
 description = "Test de normalidad, valores estadísticos básicos y obtención de valores extremos"
 slug = "Estadistica-basica-python"
 tags = ['Estadistica', 'python']

@@ -1,7 +1,7 @@
 +++
 date = "2016-08-03T19:08:11+02:00"
 draft = true
-title = "Asociación parcial de datos"
+title = "Asociación parcial de datos <Python/R>"
 description = "Análisis de datos correlativos parciales utilizando python y rpy2"
 slug = "partial-correlation-analysis"
 tags = ['Estadistica', 'python', 'Correlativos']
@@ -112,4 +112,4 @@ R object with classes: ('data.frame',) mapped to:
 """
 ```
 
-Entre estos números e información podemos distingir que el parámetro *estimate* ha descendido a 0.45 y el *p.value* ya no es suficiente para rechazar la hipótesis nula y por lo tanto, no hay una asociación. 
+Entre estos números e información podemos distingir que el parámetro *estimate* ha descendido a 0.45 y el *p.value* ya no es suficiente para rechazar la hipótesis nula y por lo tanto, no hay una asociación.

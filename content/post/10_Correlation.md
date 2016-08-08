@@ -1,7 +1,7 @@
 +++
 date = "2016-08-03T19:08:11+02:00"
 draft = true
-title = "Datos correlativos"
+title = "Datos correlativos <Python>"
 description = "Análisis de datos correlativos en series utilizando python"
 slug = "correlation-analysis"
 tags = ['Estadistica', 'python', 'Correlativos', 'pearson','spearman','kendalls']

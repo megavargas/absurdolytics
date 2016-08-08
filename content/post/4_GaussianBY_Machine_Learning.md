@@ -1,7 +1,7 @@
 +++
 date = "2016-07-04T19:08:11+02:00"
 draft = true
-title = "Aprendizaje automático - Clasificación - Naive Bayes"
+title = "Aprendizaje automático - Clasificación - Naive Bayes <Python>"
 description = "Posibilidades, funcionamiento y ejemplos de uso del algorimo Naive Bayes para clasificación y aprendizaje automático"
 slug = "machine-learning-naive-bayes"
 tags = ['Aprendizaje automático', 'Clasificación', 'scikit-learn', 'mllib', 'spark']
