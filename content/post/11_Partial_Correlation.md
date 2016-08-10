@@ -1,10 +1,10 @@
 +++
 date = "2016-08-03T19:08:11+02:00"
 draft = true
-title = "Asociación parcial de datos <Python/R>"
+title = "Análisis de datos - Asociación parcial de datos <Python/R>"
 description = "Análisis de datos correlativos parciales utilizando python y rpy2"
 slug = "partial-correlation-analysis"
-tags = ['Estadistica', 'python', 'Correlativos']
+tags = ['Estadistica', 'python', 'Asociación']
 +++
 
 En este post vamos a ver un ejemplo clásico de asociación parcial y como eliminar de nuestra asociación ruidos que nos puedan dar resultados erróneos.

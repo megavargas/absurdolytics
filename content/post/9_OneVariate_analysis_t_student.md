@@ -1,12 +1,11 @@
 +++
 date = "2016-08-01T19:08:11+02:00"
 draft = true
-title = "Análisis de una variable <Python>"
+title = "Análisis de datos - Análisis de una variable <Python>"
 description = "Análisis de una variable con la distribución t-student, binomial y Chi"
 slug = "onevariate-t-student-clt"
 tags = ['Estadistica', 'python', 't-student', 'binomial','chi-cuadrado']
 +++
-
 
 ## t-student
 

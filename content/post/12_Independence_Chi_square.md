@@ -1,13 +1,13 @@
 +++
 date = "2016-08-05T19:08:11+02:00"
 draft = true
-title = "Test chi-cuadrado de independencia de variables <Python>"
+title = "Análisis de datos - Test chi-cuadrado de independencia de variables <Python>"
 description = "Análisis sobre la dependencia de variables utilizando Chi-cuadrado"
 slug = "chi-independence-analysis"
-tags = ['Estadistica', 'python', 'Independencia']
+tags = ['Estadistica', 'python', 'Asociación']
 +++
 
-El test chi-cuadrado analiza si dos variables categóricas son independeientes. Est test puede ser utilizado para determinar si variables como educación, política, etc varían en base a parámetros demográficos como género, religión etc.
+El test chi-cuadrado también nos sirve para analizar si dos variables categóricas son independientes. Est test puede ser utilizado para determinar si variables como educación, política, etc varían en base a parámetros demográficos como género, religión etc.
 
 Nosotros vamos a hacer una prueba con alimentación de animales, midiendo el peso de diferentes animales en función de su alimentación.
 
@@ -71,3 +71,5 @@ scipy.stats.chi2_contingency(ct_dataset)
 """
 
 ```
+
+Viendo nuestro *p.value* inferior al 5% podemos rechazar la hipótesis nula (son variables independientes) y aceptar la hipótesis nula sobre su dependencia.

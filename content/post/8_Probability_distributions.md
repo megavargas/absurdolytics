@@ -1,7 +1,7 @@
 +++
 date = "2016-08-01T19:08:11+02:00"
 draft = true
-title = "Distribuciones de probabilidad <Python>"
+title = "Análisis de datos - Distribuciones de probabilidad <Python>"
 description = "Algunas distribuciones de probabilidad"
 slug = "probability-distributions"
 tags = ['Estadistica', 'python']
