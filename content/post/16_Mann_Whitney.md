@@ -7,7 +7,7 @@ slug = "ANOVA-oneway"
 tags = ['Estadistica', 'python', 'Mann Whitney']
 +++
 
-El test de [Mann Whitney](https://es.wikipedia.org/wiki/Prueba_U_de_Mann-Whitney) es una herramienta [no paramétrica](https://es.wikipedia.org/wiki/Estad%C3%ADstica_no_param%C3%A9trica) que puede ejecutarse cuando las condiciones [ANOVA](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_la_varianza) fallan. Se basa en comparar la media de dos grupos independientes (One way ANOVA).
+El test de [Mann Whitney](https://es.wikipedia.org/wiki/Prueba_U_de_Mann-Whitney) es una herramienta [no paramétrica](https://es.wikipedia.org/wiki/Estad%C3%ADstica_no_param%C3%A9trica) que puede ejecutarse cuando las condiciones del t-test para muestras independientes fallan.
 
 Para realizar este análisis vamos a utilizar un dataset de resultados sobre varios métodos de enseñanza de metáforas en niños.
 
